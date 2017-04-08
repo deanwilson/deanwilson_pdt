@@ -53,6 +53,8 @@ the output shows the possible values.
 
 The types themselves can be found in the `types` directory.
 
+ * Deanwilson_pdt::Gpgkeyid -- matches 40 character alphanumeric GPG key IDs
+
  * Deanwilson_pdt::Ubuntucodename -- matches a valid Ubuntu distribution
      codename. Examples are `trusty` and `xenial`.
 

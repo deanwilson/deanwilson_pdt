@@ -1,0 +1,36 @@
+{
+  "name": "deanwilson-deanwilson_pdt",
+  "version": "0.1.0",
+  "author": "deanwilson",
+  "summary": "A collection of data types for use in validating your puppet values",
+  "license": "Apache-2.0",
+  "source": "https://github.com/deanwilson/deanwilson_pdt",
+  "project_page": "https://github.com/deanwilson/deanwilson_pdt",
+  "issues_url": "https://github.com/deanwilson/deanwilson_pdt/issues",
+  "dependencies": [
+
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.8.1 < 5.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat"
+    },
+    {
+      "operatingsystem": "Ubuntu"
+    },
+    {
+      "operatingsystem": "Debian"
+    },
+    {
+      "operatingsystem": "Fedora"
+    },
+    {
+      "operatingsystem": "CentOS"
+    }
+  ]
+}

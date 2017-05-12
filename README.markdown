@@ -76,7 +76,7 @@ sensibly call the module and still use it in yuor day to day code.
 
 In actual usage I'd probably expect a local data types module that cherry picks
 from a number of other type repositories and has a short, easy to use name. In
-this module I've veered towards an awkward but long and expicit name.
+this module I've veered towards an awkward but long and explicit name.
 
 ### License
 
